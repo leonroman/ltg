@@ -1,1 +1,3 @@
-# ltg
+# General description
+# Architecture
+# Technology
